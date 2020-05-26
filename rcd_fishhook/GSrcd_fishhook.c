@@ -6,7 +6,7 @@
 * LICENSE file in the root directory of this source tree.
 */
 
-#include "rcd_fishhook.h"
+#include "GSrcd_fishhook.h"
 
 #include <dlfcn.h>
 #include <stdbool.h>

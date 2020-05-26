@@ -6,8 +6,8 @@
 * LICENSE file in the root directory of this source tree.
 */
 
-#ifndef rcd_fishhook_h
-#define rcd_fishhook_h
+#ifndef GSrcd_fishhook_h
+#define GSrcd_fishhook_h
 
 #include <stddef.h>
 #include <stdint.h>
@@ -57,5 +57,5 @@ int rcd_rebind_symbols_image(void *header,
 }
 #endif //__cplusplus
 
-#endif //rcd_fishhook_h
+#endif //GSrcd_fishhook_h
 
